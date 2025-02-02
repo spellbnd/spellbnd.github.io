@@ -197,7 +197,6 @@ a.text-red:hover {
         width: 100%; /* Make cards full width on extra small screens */
         max-width: 300px; /* Limit card width if needed */
         margin-bottom: 20px; /* Add margin between stacked cards */
-		margin-left: 30px;
     }
     .h-500px {
         height: 300px; /* Adjust card height for extra small screens */
